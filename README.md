@@ -54,8 +54,22 @@ Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo
 *Nenhum framework foi utilizado*
 
 ## :computer: Telas
+<!--
+Cores do app (HEX): 
+#E1D6C7 | #C6B49B | #97500C | #6F3600 | #4C2500
+#728DC5 | #334E98 | #172B75 | #0A185A | #040D46 -->
 
-[em breve]
+### Login e cadastro de usuário
+
+*[em breve]*
+
+### Lista e cadastro de novas gratidões
+
+*[em breve]*
+
+### Visualizar e editar gratidões
+
+*[em breve]*
 
 ## :robot: Abrir e rodar o projeto
 
