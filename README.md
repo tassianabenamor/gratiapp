@@ -4,19 +4,19 @@
 
 # :canoe: GratiApp - Gratidão Diária
 
-O aplicativo de anotações ideal para quem quer registrar todos os dias as gratidões mais marcantes de sua vida.
+O aplicativo de anotações ideal para quem quer registrar todos os dias as gratidões mais marcantes de sua vida
 
-Motivo: Ser um espaço para autoescrita através do aplicativo GratiApp.
+Motivo: Ser um espaço para autoescrita através do aplicativo GratiApp
 
 ### Requisitos
 
-Utilização de smartphone com sistema operacional Android para executar o aplicativo ou simulado com tal capacidade. 
+Utilização de smartphone com sistema operacional Android para executar o aplicativo 
 
 Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https://play.google.com/store/apps/developer?id=Aluno+Infnet&hl=pt_PT&gl=US).
 
 ### Funcionalidades
 
-Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo.
+Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo
 
 - Cadastro e autenticação de usuário utilizando Firebase
 - Consumo de API para consulta de endereço do usuário
@@ -66,9 +66,9 @@ Após baixar o projeto, você pode abri-lo utilizando o Android Studio. Para iss
 
 ### Observação
 
-O Android Studio deve executar algumas tasks do Gradle para configuração do projeto. 
+O Android Studio deve executar algumas tasks do Gradle para configuração do projeto
 
-Após as tasks finalizarem, o app GratiApp pode ser executado.
+Após as tasks finalizarem, o app GratiApp pode ser executado
 
 <hr>
 
