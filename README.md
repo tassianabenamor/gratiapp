@@ -30,7 +30,7 @@ Assista aqui o [vídeo]() demonstrando as funcionalidades do aplicativo
 
 - `CardView`: container para apresentar cada produto na lista de gratidões
 - `RecyclerView`: listagem das gratidões
-- `ConstraintLayout`: ViewGroup padrão para implementar todos os layouts
+- `ConstraintLayout` e `LinearLayout`: ViewGroup padrão para implementar todos os layouts
 - `ImageView`: View para apresentar imagens no App
 - `View Binding`: busca de views do layout de forma segura
 - `Toast`: Exibição de mensagem comunicando o sucesso da ação tomada pelo usuário
