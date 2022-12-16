@@ -16,7 +16,7 @@ Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https
 
 ### Funcionalidades
 
-Assista aqui o [vídeo]() (em breve) demonstrando as funcionalidades do aplicativo
+Assista aqui o [vídeo](https://youtu.be/SUIHYixV5sQ) demonstrando as funcionalidades do aplicativo
 
 - Cadastro e autenticação de usuário utilizando Firebase
 - Consumo de API para consulta de endereço do usuário
