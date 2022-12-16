@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\fragment_sign_in.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\fragment_view_gratiapp.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_view_gratiapp.xml"
+    },
+    {
+        "merged": "br.edu.infnet.gratiapp-mergeDebugResources-5:/layout/activity_main.xml",
+        "source": "br.edu.infnet.gratiapp-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\fragment_sign_on.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_sign_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\fragment_edit_gratiapp.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_edit_gratiapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\gratiapp_list_item.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\gratiapp_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\fragment_register_gratiapp.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_register_gratiapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-mergeDebugResources-5:\\layout\\fragment_gratiapp.xml",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_gratiapp.xml"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="br.edu.infnet.gratiapp.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_gratiappFragment"
+            app:destination="@id/gratiappFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gratiappFragment"
+        android:name="br.edu.infnet.gratiapp.fragments.GratiappFragment"
+        android:label="fragment_gratiapp"
+        tools:layout="@layout/fragment_gratiapp" >
+        <action
+            android:id="@+id/action_gratiappFragment_to_registerGratiappFragment"
+            app:destination="@id/registerGratiappFragment" />
+        <action
+            android:id="@+id/action_gratiappFragment_to_editGratiappFragment"
+            app:destination="@id/editGratiappFragment" />
+        <action
+            android:id="@+id/action_gratiappFragment_to_viewGratiappFragment"
+            app:destination="@id/viewGratiappFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registerGratiappFragment"
+        android:name="br.edu.infnet.gratiapp.fragments.RegisterGratiappFragment"
+        android:label="RegisterGratiappFragment" />
+    <fragment
+        android:id="@+id/editGratiappFragment"
+        android:name="br.edu.infnet.gratiapp.fragments.EditGratiappFragment"
+        android:label="fragment_edit_gratiapp"
+        tools:layout="@layout/fragment_edit_gratiapp" />
+    <fragment
+        android:id="@+id/viewGratiappFragment"
+        android:name="br.edu.infnet.gratiapp.fragments.ViewGratiappFragment"
+        android:label="fragment_view_gratiapp"
+        tools:layout="@layout/fragment_view_gratiapp" >
+    </fragment>
+
+</navigation>

@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-mdpi_ic_imagem_logo_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-mdpi\\ic_imagem_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_gratiapp_list_item.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\gratiapp_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-anydpi-v26_ic_imagem_logo.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-anydpi-v26\\ic_imagem_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-hdpi_ic_imagem_logo_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-hdpi\\ic_imagem_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_fragment_sign_on.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_sign_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_fragment_sign_in.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "br.edu.infnet.gratiapp-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "br.edu.infnet.gratiapp-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-mdpi_ic_imagem_logo_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-mdpi\\ic_imagem_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-anydpi-v26_ic_imagem_logo_round.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-anydpi-v26\\ic_imagem_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\drawable_ic_baseline_remove_red_eye_24.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\drawable\\ic_baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-debug-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxxhdpi_ic_imagem_logo_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxxhdpi\\ic_imagem_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-hdpi_ic_imagem_logo.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-hdpi\\ic_imagem_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxxhdpi_ic_imagem_logo.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxxhdpi\\ic_imagem_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xhdpi_ic_imagem_logo_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xhdpi\\ic_imagem_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxhdpi_ic_imagem_logo.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxhdpi\\ic_imagem_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-mdpi_ic_imagem_logo.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-mdpi\\ic_imagem_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-hdpi_ic_imagem_logo_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-hdpi\\ic_imagem_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_fragment_register_gratiapp.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_register_gratiapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxhdpi_ic_imagem_logo_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxhdpi\\ic_imagem_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_fragment_view_gratiapp.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_view_gratiapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xhdpi_ic_imagem_logo.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xhdpi\\ic_imagem_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xhdpi_ic_imagem_logo_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xhdpi\\ic_imagem_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\drawable_ic_imagem_logo_background.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\drawable\\ic_imagem_logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_fragment_gratiapp.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_gratiapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxhdpi_ic_imagem_logo_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxhdpi\\ic_imagem_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\layout_fragment_edit_gratiapp.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\layout\\fragment_edit_gratiapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xxxhdpi_ic_imagem_logo_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xxxhdpi\\ic_imagem_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\navigation_login_navigation.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\navigation\\login_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\navigation_main_navigation.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\navigation\\main_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-merged_res-6:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\tassi\\.gradle\\daemon\\7.4\\br.edu.infnet.gratiapp-main-8:\\drawable\\ic_baseline_delete_24.xml"
+    }
+]

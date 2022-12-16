@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#172B75</color>
+    <color name="blue_300">#0A185A</color>
+    <color name="blue_400">#040D46</color>
+    <color name="brown_200">#C6B49B</color>
+    <color name="brown_300">#97500C </color>
+    <color name="brown_400">#97500C </color>
+    <color name="brown_500">#4C2500</color>
+    <color name="brown_600">#6F3600</color>
+    <color name="white">#E1D6C7</color>
+    <string name="app_name">Gratiapp</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3050093739838625/3295649153</string>
+    <string name="default_web_client_id" translatable="false">896562720584-as6tkd0ouiba0e6da8uds864marr5mt5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">896562720584</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhe6nVbRJV0WxzeoYFTuM8K5F-IcJ5RX4</string>
+    <string name="google_app_id" translatable="false">1:896562720584:android:797dcd10d90c10ec460d7d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhe6nVbRJV0WxzeoYFTuM8K5F-IcJ5RX4</string>
+    <string name="google_storage_bucket" translatable="false">gratiapp-gratidao-diaria.appspot.com</string>
+    <string name="project_id" translatable="false">gratiapp-gratidao-diaria</string>
+    <style name="Theme.Gratiapp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/blue_200</item>
+        <item name="colorPrimaryVariant">@color/blue_300</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/brown_500</item>
+        <item name="colorSecondaryVariant">@color/brown_600</item>
+        <item name="colorOnSecondary">@color/blue_400</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
