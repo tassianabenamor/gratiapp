@@ -61,15 +61,15 @@ Cores do app (HEX):
 
 ### Login e cadastro de usuário
 
-![image](https://user-images.githubusercontent.com/87051404/208003694-d5f31076-5921-422d-853b-e5cd3fd4cb41.png)
+![image](https://user-images.githubusercontent.com/87051404/208009068-a0793777-f71f-45b2-bcf3-2c2d2512a301.png)
 
 ### Lista e cadastro de novas gratidões
 
-*[em breve]*
+![image](https://user-images.githubusercontent.com/87051404/208009351-bc624f10-8939-4ffd-b827-acbfe9e63f25.png)
 
 ### Visualizar e editar gratidões
 
-*[em breve]*
+![image](https://user-images.githubusercontent.com/87051404/208009713-7d3784dc-a925-47e4-a423-0ba0c2ae6cfd.png)
 
 ## :robot: Abrir e rodar o projeto
 
