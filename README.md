@@ -61,7 +61,7 @@ Cores do app (HEX):
 
 ### Login e cadastro de usuário
 
-*[em breve]*
+![image](https://user-images.githubusercontent.com/87051404/208003694-d5f31076-5921-422d-853b-e5cd3fd4cb41.png)
 
 ### Lista e cadastro de novas gratidões
 
