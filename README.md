@@ -12,7 +12,7 @@ Motivo: Ser um espaço para autoescrita através do aplicativo GratiApp
 
 Utilização de smartphone com sistema operacional Android para executar o aplicativo 
 
-Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https://play.google.com/store/apps/developer?id=Aluno+Infnet&hl=pt_PT&gl=US) (em breve).
+Para baixar o aplicativo no seu dispositivo Android, acesse a [Play Store](https://play.google.com/store/apps/details?id=br.edu.infnet.gratiapp).
 
 ### Funcionalidades
 
